@@ -10,8 +10,8 @@
         "phpunit/phpunit": "3.7.*"
     },
     "require": {
-        "symfony/property-access": "2.*|3.*",
-        "symfony/validator": "2.*|3.*",
+        "symfony/property-access": "2.*|3.*|4.*",
+        "symfony/validator": "2.*|3.*|4.*",
         "willdurand/jsonp-callback-validator": "~1.0"
     }
 }
